@@ -1,0 +1,35 @@
+body {
+	width: 80%;
+	max-width: 700px;
+	margin: 20px auto;
+	padding: 20px;
+	border: 20px solid #bdc3c7;
+	font-family: "Source Sans Pro";
+}
+
+h2 {
+	color: #2c3e50;
+	text-transform: capitalize;
+	font-size: 2.0rem;
+}
+
+.date {
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+}
+
+hr {
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+.quote {
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+}
+
+.post {
+	margin-bottom: 20px;
+}
